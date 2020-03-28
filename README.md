@@ -17,7 +17,7 @@ Criamos a pasta do Frontend:
  	 - npx create-react-app frontend
    	 - npm start para vermos o react rodando na porta localhost:3000
 
-2- Segundo dia
+2- Segundo dia (Backend node.js)
 
 Rotas e Recursos
    	 - por onde nós vamos acessar os dados no basck-end
@@ -54,9 +54,19 @@ Para a criação do banco de dados foi utilizado o knex
 	- npx knex migrate:latest -> para executar a tebela
 	- Documentation: http://knexjs.org/#Schema-increments
 
-1:17:00
+3- Terceiro Dia (react.js)
 
-51:21
+Componente: é uma função que retorna html 
+
+JSX: javascript com html dentro 
+
+Propriedades: atributos (ou o proprio conteudo no nem de "childeren") é passado para o componente para tornar a função dinâmica
+
+Estado e imutabilidade: as variáveis são definidas em uma constante com useState e nesta constante vai uma array com o nome desta constante e com a função que irá alterar o valor desta constante, nenhum estado pode ser alterado diretamente sem passar por esta função ex: "const [ counter, setCounter ] = useState(0);"
+
+Download de pacote de icones para o React: npm install react-icons
+Rotas feitas com o pacote: npm install react-router-dom
+Conexão com o banco de dados feita pelo axios: npm install axios
 
 	
 	
