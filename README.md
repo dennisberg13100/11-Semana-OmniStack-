@@ -67,6 +67,12 @@ Estado e imutabilidade: as variáveis são definidas em uma constante com useSta
 Download de pacote de icones para o React: npm install react-icons
 Rotas feitas com o pacote: npm install react-router-dom
 Conexão com o banco de dados feita pelo axios: npm install axios
+Meu ID de acesso é ab7e2ae1.
+
+
+4- Quarto Dia 
+
+Não há muito o que descrever, pois react.js e react-native são muito similares, a maior diferença é o fato de não podermos usar o css (apenas na forma de js) e outras peculiaridades relativas ao fato de estarmos trabalhando em uma tela de celular.
 
 	
 	
